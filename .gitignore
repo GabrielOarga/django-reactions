@@ -1,3 +1,28 @@
+# VSCode
+.vscode
+
+# Intelij
+.idea
+
+# MacOS
+.DS_STORE
+
+# React
+dist/
+build/
+coverage/
+remote-repo/
+.module-cache
+fixtures/dom/public/react-dom.js
+fixtures/dom/public/react.js
+
+# Node
+node_modules
+*.log*
+
+# Grunt
+.grunt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
